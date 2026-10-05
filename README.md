@@ -82,31 +82,6 @@ sleep_2.png
 
 The application cycles through these frames using Qt timers to create the animation.
 
-## Demo
-
-Add a GIF or screenshot here once you have one:
-
-```html
-<p align="center">
-  <img src="docs/iconpet-demo.gif" width="500">
-</p>
-```
-
-## Running IconPet
-
-Install the required dependency:
-
-```bash
-pip install PySide6
-```
-
-Then run the application:
-
-```bash
-python main.py
-```
-
-> Replace `main.py` with the actual entry-point filename if it is different.
 
 ## Project Structure
 
