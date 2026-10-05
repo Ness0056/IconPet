@@ -83,26 +83,6 @@ sleep_2.png
 The application cycles through these frames using Qt timers to create the animation.
 
 
-## Project Structure
-
-A typical structure looks like:
-
-```text
-IconPet/
-├── main.py
-├── assets/
-│   ├── idle_front_1.png
-│   ├── idle_front_2.png
-│   ├── idle_front_3.png
-│   ├── walk_left_1.png
-│   ├── walk_right_1.png
-│   ├── sleep_1.png
-│   └── ...
-├── docs/
-│   └── iconpet-demo.gif
-├── requirements.txt
-└── README.md
-```
 
 ## Concepts Demonstrated
 
